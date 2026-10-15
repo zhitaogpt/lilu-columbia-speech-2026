@@ -25,6 +25,17 @@
 
 在线访问：**<https://zhitaogpt.github.io/lilu-columbia-speech-2026/>**
 
+## 🎬 原视频
+
+| 项目 | 内容 |
+| :--- | :--- |
+| **标题** | 【中文配音完整版】李录哥大演讲：讲透 AI、中国经济与价值投资的核心逻辑 |
+| **UP 主** | 复利的奇迹价值投资 |
+| **发布 / 时长** | 2026-10-10 ｜ 完整版 52 分 59 秒（另有 20 分 22 秒「中文文稿版」） |
+| **链接** | <https://www.bilibili.com/video/BV1QEpi6LEAs/> |
+
+> 视频地址：https://www.bilibili.com/video/BV1QEpi6LEAs/ （BV 号：`BV1QEpi6LEAs`）
+
 ## 🗂 内容结构
 
 | 时间 | 章节 |
